@@ -1,16 +1,16 @@
-# Title
+# Regexr
 
 ## Learning Goals
 
--SWBAT 1
--SWBAT 2
+- Use the RegExr tool and reference to experiment with Regular expressions
 
 ## Introduction
 
-## SWBAT 1
+When writing a regular expression, it's helpful to have a visual tool to try out matching against some text. [RegExr](https://regexr.com/) provides a powerful playground for such experimentation.
 
-## SWBAT 2
+Play around with Regexr for 10 minutes. Make sure to find:
 
-## Conclusion
-
-## Resources
+- Regex Reference
+- Cheatsheet
+- 'Explain' feature
+- Match group details
