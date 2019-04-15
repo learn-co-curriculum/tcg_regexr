@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-- Use the RegExr tool and reference to experiment with Regular expressions
+- Use the RegExr tool and reference to experiment with regular expressions
 
 ## Introduction
 
