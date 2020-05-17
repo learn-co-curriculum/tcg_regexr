@@ -1,4 +1,6 @@
 ---
-:page_id: 3496
-:course_id: 239
-:canvas_url: https://learning.flatironschool.com/courses/239/pages/tcg-regexr
+:lessons:
+- :id: 3975
+  :course_id: 272
+  :canvas_url: https://learning.flatironschool.com/courses/272/pages/tcg-regexr
+  :type: page
